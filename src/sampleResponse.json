@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 483,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft announces quantum computing breakthrough with new Majorana 1 chip",
+      "description": "Microsoft believes it has made a key breakthrough in quantum computing, unlocking the potential for quantum computers to solve industrial-scale problems. The software giant has spent 17 years working on a research project to create a new material and architec…",
+      "url": "https://www.theverge.com/news/614205/microsoft-quantum-computing-majorana-1-processor",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Majorana-1-005-4000px.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "publishedAt": "2025-02-19T13:56:29Z",
+      "content": "Microsoft has spent 17 years researching a new material and architecture for quantum computing.\r\nMicrosoft has spent 17 years researching a new material and architecture for quantum computing.\r\nMicro… [+3862 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Amazon says its new quantum computing chip will make error correction more efficient",
+      "description": "Amazon is making its foray into quantum computing with the launch of a new chip designed to make quantum error correction more efficient. In an announcement on Thursday, Amazon Web Services (AWS) said the chip, called Ocelot, can “reduce the costs of implemen…",
+      "url": "https://www.theverge.com/news/620732/amazon-quantum-computing-ocelot-chip",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon-ocelot-chip.jpeg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
+      "publishedAt": "2025-02-27T15:17:15Z",
+      "content": "The Ocelot chip comes with built-in error correction.\r\nThe Ocelot chip comes with built-in error correction.\r\nAmazon is making its foray into quantum computing with the launch of a new chip designed … [+2072 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Samantha Kelly",
+      "title": "Microsoft Says It's Made a Major Quantum Computing Breakthrough With New Chip",
+      "description": "Its Majorana 1 chip, made of a new material, can perform high-level computing tasks with greater speed and accuracy, Microsoft says.",
+      "url": "https://www.cnet.com/tech/computing/microsoft-says-its-made-a-major-quantum-computing-breakthrough-with-new-chip/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/20282bf61efbd577d4184f2d6033c645691df5cb/hub/2025/02/20/be2b4fae-2b06-450d-8bb0-899c8d105e01/screenshot-2025-02-20-at-9-32-41am.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-02-20T17:43:00Z",
+      "content": "The race to shape the future of computing is heating up among tech companies, with Microsoft saying it's made a major breakthrough in quantum computing, potentially paving the way for the technology … [+2389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Microsoft Reveals Its First Quantum Computing Chip, the Majorana 1",
+      "description": "After two decades of quantum computing research, Microsoft has unveiled its first quantum chip: the Majorana 1. CNBC reports: Microsoft's quantum chip employs eight topological qubits using indium arsenide, which is a semiconductor, and aluminum, which is a s…",
+      "url": "https://tech.slashdot.org/story/25/02/19/1651235/microsoft-reveals-its-first-quantum-computing-chip-the-majorana-1",
+      "urlToImage": "https://a.fsdn.com/sd/topics/supercomputing_64.png",
+      "publishedAt": "2025-02-19T17:25:00Z",
+      "content": "Microsoft's quantum chip employs eight topological qubits using indium arsenide, which is a semiconductor, and aluminum, which is a superconductor. A new paper in the journal Nature describes the chi… [+793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "Scientists Question Microsoft's Quantum Computing Claims",
+      "description": "Microsoft's announcement of a breakthrough in quantum computing faces skepticism from physicists, who say evidence supporting the company's claims remains insufficient. \n\nThe tech giant reported creating Majorana particles - a development it says could revolu…",
+      "url": "https://science.slashdot.org/story/25/02/22/0232239/scientists-question-microsofts-quantum-computing-claims",
+      "urlToImage": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+      "publishedAt": "2025-02-22T02:33:00Z",
+      "content": "Academic fraud, paper retractions, and such have become almost everyday news. So, hearing that a researcher on the bleeding edge of new studies, MS or otherwise, was guilty of publishing too soon, or… [+2120 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katherine Tangalakis-Lippert",
+      "title": "Satya Nadella explains why Microsoft's quantum 'breakthrough' is so important",
+      "description": "Microsoft on Wednesday unveiled its new Majorana 1 chip, which Satya Nadella described as a \"breakthrough\" in quantum computing.",
+      "url": "https://www.businessinsider.com/satya-nadella-microsoft-new-majorana-chip-quantum-breakthrough-state-matter-2025-2",
+      "urlToImage": "https://i.insider.com/67b6442d7bb3f854015d49f3?width=1200&format=jpeg",
+      "publishedAt": "2025-02-20T01:54:21Z",
+      "content": "Satya Nadella described Microsoft's new Majorana 1 chip as a \"breakthrough\" in the advancement of quantum computing.Ethan Miller\r\n\u003Cul\u003E\u003Cli\u003EMicrosoft unveiled Majorana 1, a quantum chip the company say… [+6053 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katherine Tangalakis-Lippert",
+      "title": "Amazon joins the quantum computing race, announcing new 'Ocelot' chip",
+      "description": "Amazon debuted its new \"Ocelot\" chip, joining other tech giants like Google and Microsoft in the race to develop full-fledged quantum computers.",
+      "url": "https://www.businessinsider.com/amazon-debuts-ocelot-chip-quantum-computing-race-google-microsoft-2025-2",
+      "urlToImage": "https://i.insider.com/67c0e6ceb1834fe31165bd3b?width=1200&format=jpeg",
+      "publishedAt": "2025-02-28T03:05:00Z",
+      "content": "A superconducting-qubit quantum chip being wire-bonded to a circuit board at the AWS Center for Quantum Computing in Pasadena, California.Amazon Web Services\r\n\u003Cul\u003E\u003Cli\u003EAmazon Web Services on Thursday … [+6410 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Luis Miranda",
+      "title": "Microsoft presenta el Majorana 1, su primer chip cuántico",
+      "description": "Microsoft ha presentado el Majorana 1, su primer chip cuántico del mundo. Basado en una arquitectura de núcleo topológico, este procesador representa un paso significativo hacia la construcción de ordenadores cuánticos capaces de resolver problemas complejos.…",
+      "url": "http://hipertextual.com/2025/02/microsoft-presenta-el-majorana-1-su-primer-chip-cuantico",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2025/02/Majorana-1-009-4000px-1.jpg",
+      "publishedAt": "2025-02-19T23:43:40Z",
+      "content": "Microsoft ha presentado el Majorana 1, su primer chip cuántico del mundo. Basado en una arquitectura de núcleo topológico, este procesador representa un paso significativo hacia la construcción de or… [+3563 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Microsoft's Majorana 1 quantum computing chip uses a new kind of superconductor",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e0911e8f-f3c5-4bb2-b208-32859a17bdb9",
+      "urlToImage": null,
+      "publishedAt": "2025-02-19T16:00:09Z",
+      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Pastor",
+      "title": "Microsoft ha estado 17 años trabajando en su nuevo y fascinante producto: un computador cuántico con partículas de Majorana",
+      "description": "Los responsables de Microsoft afirman que creen haber dado un paso importante en la carrera de la computación cuántica. Y lo han dado con un enfoque radicalmente distinto al que habíamos visto hasta ahora.\n\u003C!-- BREAK 1 --\u003E\nEl fermión de Majorana. El físico it…",
+      "url": "https://www.xataka.com/ordenadores/microsoft-desvela-computador-cuantico-diferente-prometedor-no-usa-electrones-sino-particulas-majorana",
+      "urlToImage": "https://i.blogs.es/aa5c1b/majorana1/840_560.jpeg",
+      "publishedAt": "2025-02-20T09:31:56Z",
+      "content": "Los responsables de Microsoft afirman que creen haber dado un paso importante en la carrera de la computación cuántica. Y lo han dado con un enfoque radicalmente distinto al que habíamos visto hasta … [+3399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Juan Carlos López",
+      "title": "La opinión del director general de Microsoft acerca de la IA es inusual. Y sospecha cuánto crecerá la economía global gracias a ella",
+      "description": "Satya Nadella, el director general de Microsoft, ha intervenido en el podcast de Dwarkesh Patel. Durante su interesantísima conversación de algo más de una hora y cuarto de duración este ejecutivo ha tocado muchos palos de candente actualidad por su relevanci…",
+      "url": "https://www.xataka.com/robotica-e-ia/opinion-director-general-microsoft-acerca-ia-inusual-sospecha-cuanto-crecera-economia-global-gracias-a-ella",
+      "urlToImage": "https://i.blogs.es/326bb0/nadella-ap/840_560.jpeg",
+      "publishedAt": "2025-02-23T11:01:56Z",
+      "content": "Satya Nadella, el director general de Microsoft, ha intervenido en el podcast de Dwarkesh Patel. Durante su interesantísima conversación de algo más de una hora y cuarto de duración este ejecutivo ha… [+3214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Next Platform"
+      },
+      "author": "Jeffrey Burt",
+      "title": "AWS Cat Qubits Make Quantum Error Correction Effective, Affordable",
+      "description": "In a scene from the movie Gladiator, Roman emperor Marcus Aurelius, worried about the fragility of his empire, tells his general, Maximus: “There was once",
+      "url": "https://www.nextplatform.com/2025/02/27/aws-cat-qubits-make-quantum-error-correction-effective-affordable/",
+      "urlToImage": "http://www.nextplatform.com/wp-content/uploads/2025/02/AWS-Ocelot.png",
+      "publishedAt": "2025-02-28T09:51:38Z",
+      "content": "In a scene from the movie Gladiator, Roman emperor Marcus Aurelius, worried about the fragility of his empire, tells his general, Maximus: There was once a dream that was Rome. You could only whisper… [+8300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Frank Schräer",
+      "title": "Donnerstag: Pixel-Tablet ohne Google, Microsofts Quantencomputing-Revolution",
+      "description": "Murena-Tablet mit Android-Derivat + Majorana-Chip mit topologischen Qubits + Apples SE-Nachfolger iPhone 16e + Googles Steuernachzahlung in Italien + #heiseshow",
+      "url": "https://www.heise.de/news/Donnerstag-Pixel-Tablet-ohne-Google-Microsofts-Quantencomputing-Revolution-10288775.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/4/6/2/8/thursday-36d4450650cc1383.webp",
+      "publishedAt": "2025-02-20T05:15:00Z",
+      "content": "Der Entwickler des alternativen Smartphone-Betriebssystems /e/OS verkauft sein erstes Tablet: Das Murena Pixel Tablet hat einen Google-Chip, aber kein Google-Tracking. Die Hardware entspricht dem Pix… [+4800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Frank Schräer",
+      "title": "Microsoft bezeichnet neuen Majorana-Chip als Durchbruch für Quantencomputing",
+      "description": "Majorana 1 ist laut Microsoft der erste Quantenprozessor basierend auf topologischen Qubits. Der Chip soll enorm leistungsfähige Quantencomputer ermöglichen.",
+      "url": "https://www.heise.de/news/Microsoft-bezeichnet-neuen-Majorana-Chip-als-Durchbruch-fuer-Quantencomputing-10288761.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/8/0/4/6/2/1/microsoft_majorana_1-ed5a32d77a9a521f.webp",
+      "publishedAt": "2025-02-20T03:32:00Z",
+      "content": "Microsoft hat mit dem Majorana 1 einen neuen Quantenprozessor vorgestellt, der in wenigen Jahren die Basis enorm leistungsfähiger Quantencomputer darstellen soll. Mit diesen könnten wissenschaftliche… [+3732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Dan Vergano",
+      "title": "Microsoft’s and Google’s Quantum Computing Claims Add to Consumer Confusion",
+      "description": "Schrödinger’s cat is scratching its head over the “topological” qubit that is causing a buzz in quantum computing. We should be, too",
+      "url": "https://www.scientificamerican.com/article/microsofts-and-googles-quantum-computing-claims-add-to-consumer-confusion/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/2126615bf79ec3f4/original/polygonal-cat.jpg?m=1741116945.587&w=1200",
+      "publishedAt": "2025-03-05T12:00:00Z",
+      "content": "Floating above the world of computing—and the investors who love it—flies the notion that quantum physics will soon change everything. Quantum computers will design us new drugs, new batteries, and m… [+6459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "sean.endicott@futurenet.com (Sean Endicott)",
+      "title": "Microsoft created a new 'state of matter' to revolutionize quantum computing",
+      "description": "Microsoft just announced the world's first quantum chip to use a topoconductor. The chip could create a path to quantum computers being a reality.",
+      "url": "https://www.windowscentral.com/software-apps/microsoft-created-a-new-state-of-matter-to-revolutionize-quantum-computing",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bHtUsUAGiThqBjcqz9yKpk-1200-80.jpg",
+      "publishedAt": "2025-02-19T17:12:52Z",
+      "content": "A newly announced chip from Microsoft could solve unsolvable problems, revolutionize quantum computing, and solve real-world problems that cannot be solved by the combined forces of every computer in… [+3533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Antoine Gautherie",
+      "title": "Majorana 1 : pourquoi le nouveau processeur quantique de Microsoft est révolutionnaire",
+      "description": "Ce processeur pas comme les autres s'appuie sur des \"qbits topologiques\", beaucoup plus résistants aux perturbations que leurs homologues conventionnels.",
+      "url": "https://www.journaldugeek.com/2025/02/20/majorana-1-pourquoi-le-nouveau-processeur-quantique-de-microsoft-est-revolutionnaire/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2025/02/majorana-1-cover.jpg",
+      "publishedAt": "2025-02-20T16:34:45Z",
+      "content": "Microsoft a dévoilé ce mercredi Majorana 1, un tout nouveau processeur quantique présenté comme une « avancée transformatrice » pour cette discipline de pointe. Selon la firme, il incarne un ensemble… [+4787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Jean-Yves Alric",
+      "title": "Microsoft fait une percée majeure vers le PC quantique",
+      "description": "La firme de Redmond promet une révolution.",
+      "url": "https://www.presse-citron.net/microsoft-fait-une-percee-majeure-vers-le-pc-quantique/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2024/02/microsoft.jpg",
+      "publishedAt": "2025-02-20T11:52:21Z",
+      "content": "Microsoft a levé le voile ce mercredi 19 février sur Majorana 1, sa nouvelle puce quantique, qui repose sur une nouvel état de la matière. De conception très complexe, cette innovation pourrait chang… [+2596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ritholtz.com"
+      },
+      "author": "Barry Ritholtz",
+      "title": "10 Friday AM Reads",
+      "description": "My end-of-week morning train WFH reads: • Hotdogs and motorways: The ripples created by Denmark’s Ozempic and Wegovy boom: American demand for weight-loss drugs is supercharging Denmark’s economy and transforming a small Danish community into an unlikely boom…",
+      "url": "https://ritholtz.com/2025/02/10-friday-am-reads-440/",
+      "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/momentumunwind.png",
+      "publishedAt": "2025-02-28T11:30:29Z",
+      "content": "Hotdogs and motorways: The ripples created by Denmark’s Ozempic and Wegovy boom: American demand for weight-loss drugs is supercharging Denmarks economy and transforming a small Danish community into… [+3628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Frank Wunderlich-Pfeiffer",
+      "title": "Majorana-1: Microsoft baut ein Qubit und spricht von Chips mit Millionen",
+      "description": "Sie reden von Millionen Qubits in wenigen Jahren. Gebaut hat Microsoft ein Qubit und selbst an diesem gibt es ernste Zweifel. Eine Recherche von Frank Wunderlich-Pfeiffer (Quantencomputer, Microsoft)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fmajorana-1-microsoft-baut-ein-qubit-und-spricht-von-chips-mit-millionen-2502-193589.html&referer=https%3A%2F%2Ft.co%2F0350106a22",
+      "urlToImage": null,
+      "publishedAt": "2025-02-21T13:30:01Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "kottke.org"
+      },
+      "author": "Jason Kottke",
+      "title": "Microsoft claims they’ve made a significant breakthrough in quantum computing involving Majorana...",
+      "description": null,
+      "url": "https://kottke.org/25/02/0046266-microsoft-claims-theyve-m",
+      "urlToImage": null,
+      "publishedAt": "2025-02-19T23:34:09Z",
+      "content": "Microsoft claims they’ve made a significant breakthrough in quantum computing involving Majorana quasiparticles. “It’s theoretically possible for an electron to hide itself, with each half hiding at … [+69 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "info@hypebeast.com (Hypebeast)",
+      "title": "Microsoft Discovers New State of Matter With Quantum Chip Breakthrough",
+      "description": "On Wednesday, Microsoft unveiled a major scientific breakthrough that it believes will kick-start the quantum computing revolution. Majorana 1 is the world’s first quantum chip powered by Microsoft's Topological Core architecture, a new technology that relies…",
+      "url": "https://hypebeast.com/2025/2/microsoft-quantum-chip-majorana-1-announcement-information",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F02%2F20%2Fmicrosoft-quantum-chip-majorana-1-announcement-information-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "publishedAt": "2025-02-20T15:36:24Z",
+      "content": "On Wednesday, Microsoft unveiled a major scientific breakthrough that it believes will kick-start the quantum computing revolution. Majorana 1 is the worlds first quantum chip powered by Microsoft’s … [+1757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "info@hypebeast.com (Hypebeast)",
+      "title": "Amazon Debuts Its First Quantum Computing Chip",
+      "description": "Amazon has debuted Ocelot, its first quantum computing chip. Using scalable architecture, the chip is said to reduce error correction by up to 90% and accelerate the development of quantum computing applications. The chip represents a breakthrough in the cont…",
+      "url": "https://hypebeast.com/2025/2/amazon-debuts-ocelet-first-quantum-computing-chip",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F02%2F27%2Famazon-debuts-ocelet-first-quantum-computing-chip-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "publishedAt": "2025-02-27T17:24:21Z",
+      "content": "Amazon has debuted Ocelot, its first quantum computing chip. Using scalable architecture, the chip is said to reduce error correction by up to 90% and accelerate the development of quantum computing … [+1325 chars]"
+    },
+    {
+      "source": {
+        "id": "die-zeit",
+        "name": "Die Zeit"
+      },
+      "author": "ZEIT ONLINE: Wissen - Robert Gast",
+      "title": "Majorana 1: Dieser Quantenchip ist ein großes Versprechen",
+      "description": "Microsoft glaubt, den Durchbruch beim Quantencomputer geschafft zu haben: Wie der Chip Majorana 1 funktionieren soll und was ein verschollener Physiker damit zu tun hat.",
+      "url": "https://www.zeit.de/wissen/2025-02/majorana-1-microsoft-quantenprozessor-chip-computer",
+      "urlToImage": "https://img.zeit.de/wirtschaft/2025-02/majorana-1-bild/wide__1300x731",
+      "publishedAt": "2025-02-20T17:58:10Z",
+      "content": "Es soll nicht weniger sein als der Beginn eines neuen\r\nZeitalters. Ein neuer Zustand der Materie, der vierte neben fest, flüssig und\r\ngasförmig, soll einen Computer mit nie dagewesener Rechenleistung… [+490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Faz.net"
+      },
+      "author": "Stephan Finsterbusch, Sven Astheimer, Roland Lindner",
+      "title": "Neuer Superchip: Microsoft reklamiert Quantenerfolg",
+      "description": "Der Softwarekonzern stellt einen neuen Superchip vor – und sagt, Quantencomputer könnten schon in einigen Jahren reif für kommerzielle Anwendungen sein. Aber es bleiben Restzweifel.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/microsoft-reklamiert-quanten-erfolg-wann-ist-die-technik-reif-110309353.html",
+      "urlToImage": "https://media0.faz.net/ppmedia/aktuell/1402944358/1.10309352/facebook_teaser/microsoft-s-majorana-1-quanten.jpg",
+      "publishedAt": "2025-02-20T16:04:34Z",
+      "content": "Im Rennen der Technologiebranche um die Entwicklung von Quantencomputern reklamiert Microsoft einen Durchbruch: Der amerikanische Softwarekonzern stellte jetzt einen neuen Chip vor, der den Weg zum k… [+3280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Muyinteresante.com"
+      },
+      "author": "efernandez",
+      "title": "Este hallazgo de 1932 está reescribiendo los libros de computación cuántica: logran saltar una restricción física que se pensaba ineludible",
+      "description": "Físicos han logrado desafiar una restricción cuántica establecida en 1932, permitiendo transiciones directas entre estados cuánticos sin pasar por niveles intermedios. Este hallazgo, con aplicaciones en computación cuántica, podría revolucionar el diseño de q…",
+      "url": "http://www.muyinteresante.com/ciencia/hallazgo-1932-computacion-cuantica.html",
+      "urlToImage": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/02/Portada-normal-117-og.jpg",
+      "publishedAt": "2025-02-24T01:03:00Z",
+      "content": "Creado:\r\n24.02.2025 | 01:03\r\nActualizado:\r\n23.02.2025 | 16:34\r\nEn el mundo de la física cuántica, hay principios que parecen inquebrantables, reglas fundamentales que han resistido el paso del tiempo… [+4562 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Muyinteresante.com"
+      },
+      "author": "efernandez",
+      "title": "Esta es la lista más completa de experimentos para detectar neutrinos: todo lo que tienes que saber",
+      "description": "Descubre la lista más completa de experimentos de neutrinos, desde ANTARES hasta IceCube. Conoce cómo estos detectores han revolucionado la física de partículas y qué nos depara el futuro en su estudio.",
+      "url": "http://www.muyinteresante.com/ciencia/esta-es-la-lista-mas-completa-de-experimentos-para-detectar-neutrinos-todo-lo-que-tienes-que-saber.html",
+      "urlToImage": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/02/Portada-con-circulo-V2-81-og.jpg",
+      "publishedAt": "2025-02-12T09:13:00Z",
+      "content": "Creado:\r\n12.02.2025 | 09:13\r\nActualizado:\r\n5.02.2025 | 18:18\r\nLos neutrinos son partículas fascinantes y esquivas. Cada segundo, billones de ellos atraviesan nuestro cuerpo sin que lo notemos. A dife… [+91783 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Habr.com"
+      },
+      "author": "full_moon (Magnus Tech)",
+      "title": "Гибридный Claude 3.7 Sonnet, ребрендинг OpenAI: главные события февраля в сфере ИИ",
+      "description": "Марафон ИИ-гигантов постепенно превращается в настоящий спринт. Anthropic наконец-то проснулась от спячки и вернулась в строй, выпустив достойного конкурента для OpenAI и DeepSeek. Google также ворвался с целой пачкой свежих моделей Gemini 2.0. Ну и конечно ж…",
+      "url": "https://habr.com/ru/companies/magnus-tech/articles/878454/#post-content-body",
+      "urlToImage": "https://habrastorage.org/getpro/habr/upload_files/8e6/cd5/996/8e6cd5996be6c64b72b329f4e7d532b6.jpeg",
+      "publishedAt": "2025-03-04T13:43:43Z",
+      "content": "- . Anthropic - , OpenAI DeepSeek. Google Gemini 2.0. , GPT-4.5 .\r\n « »: Deep Research . \r\n, . : !\r\nAnthropic: Claude 3.7 Sonnet \r\nClaude reasoning: , \r\nAnthropic - . Claude 3.7 Sonnet reasoning- : ,… [+4813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "author": null,
+      "title": "Netherlands-based QuantWare, which offers its VIO chip architecture to help solve scaling bottlenecks in quantum processors, raised a €20M Series A (Anna Heim/TechCrunch)",
+      "description": "Anna Heim / TechCrunch:\nNetherlands-based QuantWare, which offers its VIO chip architecture to help solve scaling bottlenecks in quantum processors, raised a €20M Series A  —  Big Tech companies aren't sleeping on quantum chips: Amazon Web Services introduced…",
+      "url": "https://www.techmeme.com/250304/p39",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/QuantWare-cofounders-Alessandro-Bruno-and-Matthijs-Rijlaarsdam.jpg?resize=1200,800",
+      "publishedAt": "2025-03-05T04:45:02Z",
+      "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 11:45 PM ET, March 4, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo vie… [+68 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MIT Technology Review"
+      },
+      "author": "Rachel Courtland",
+      "title": "A new Microsoft chip could lead to more stable quantum computers",
+      "description": "Microsoft announced today that it has made significant progress in its 20-year quest to make topological quantum bits, or qubits—a special approach to building quantum computers that could make them more stable and easier to scale up.  Researchers and compani…",
+      "url": "https://www.technologyreview.com/2025/02/19/1112072/a-new-microsoft-chip-could-lead-to-more-stable-quantum-computers/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/02/250218-microsoft-chip-hero.jpg?resize=1200,600",
+      "publishedAt": "2025-02-19T16:00:00Z",
+      "content": "Microsoft has been on a quest to synthesize this state, called a Majorana fermion, in the form of quasiparticles. The Majorana was first proposed nearly 90 years ago as a particle that is its own ant… [+3021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Ulrich Rozier",
+      "title": "La percée quantique de Microsoft après 17 ans de recherche, mais toujours aucun usage concret",
+      "description": "Un million de qubits sur une puce de la taille d'un processeur classique : Microsoft vient de franchir une étape historique dans l'informatique quantique. Par contre, ça n'a toujours pas d'usage concret.",
+      "url": "https://www.frandroid.com/marques/microsoft/2512223_la-percee-quantique-de-microsoft-apres-17-ans-de-recherche-mais-toujours-aucun-usage-concret",
+      "urlToImage": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/02/introducing-majorana-1-0-41-screenshot-1200x675-1.jpg?resize=1600,900&key=9d6b1a2b&watermark",
+      "publishedAt": "2025-02-20T08:07:03Z",
+      "content": "Un million de qubits sur une puce de la taille d’un processeur classique : Microsoft vient de franchir une étape historique dans l’informatique quantique. Par contre, ça n’a toujours pas d’usage conc… [+4648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ifanr.com"
+      },
+      "author": "莫崇宇",
+      "title": "二十年磨一剑，微软刚发布的巴掌大量子芯片碾压全球超算，马斯克转发力挺",
+      "description": "Majorana 1 巴掌大小，却能解决全球超算难题？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+      "url": "https://www.ifanr.com/1615145",
+      "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2025/02/1-3.jpg",
+      "publishedAt": "2025-02-20T09:54:56Z",
+      "content": "iPhone 16e Majorana 1 \r\n CEO · Majorana 1\r\n Majorana 1 \r\nMajorana 1 \r\n Majorana 1\r\n 20 \r\n0 1 0 1\r\nIBM Google \r\n IBMGoogle \r\nMajorana \r\n Ettore Majorana 1937 \r\nMajorana 1 \r\n Majorana \r\nMajorana 1 Natu… [+604 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ifanr.com"
+      },
+      "author": "柯 铭源",
+      "title": "早报|格力回应「董明珠健康家」/小米 15 Ultra 将进行爆料直播/马斯克旗下 AI 模型免费开放使用",
+      "description": "· OPPO Find N5 折叠屏正式发布\n· 幻方量化回应管理规模缩水：正常变动\n· 尊界 S800 技术发布会正式举办#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+      "url": "https://www.ifanr.com/1615258",
+      "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/hua_ting_cover.jpg",
+      "publishedAt": "2025-02-21T00:51:39Z",
+      "content": "OPPO Find N5 \r\n2 20 OPPO OPPO Find N5 \r\nOPPO Find N5 OPPO Find N5 8.93mm 4.21mm 229 \r\nOPPO Find N5 6.62 8.12 120Hz 1 120Hz PET + UTG Cover OPPO Find N5 \r\nOPPO Find N5 50MP OIS 8MP 50MP OIS 3 \r\n 8 5,6… [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Britney Nguyen",
+      "title": "Microsoft says it’s found the missing piece in quantum’s puzzle",
+      "description": "Microsoft (MSFT) is changing what you learned about the states of matter in elementary school with a creation that it said will advance “the path to useful quantum computing.”Read more...",
+      "url": "https://qz.com/microsoft-quantum-computing-chip-majorana-1-topological-1851765486",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d4d13c77cf2cf33fa896214afbc1f263.jpg",
+      "publishedAt": "2025-02-19T21:58:00Z",
+      "content": "In This Story\r\nMicrosoft (MSFT+1.24%\r\n) is changing what you learned about the states of matter in elementary school with a creation that it said will advance the path to useful quantum computing.\r\nA… [+3790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Britney Nguyen",
+      "title": "Amazon is entering the race for practical quantum computing with its new chip",
+      "description": "Amazon (AMZN) Web Services has unveiled its first-ever quantum computing chip that it said is a step toward building practical quantum computers at scale.Read more...",
+      "url": "https://qz.com/amazon-unveil-quantum-computing-chip-ocelot-aws-qubits-1851766663",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4440ed74a48c00b188bb07e2f47b0020.jpg",
+      "publishedAt": "2025-02-27T11:00:00Z",
+      "content": "In This Story\r\nAmazon (AMZN+0.40%\r\n) Web Services has unveiled its first-ever quantum computing chip that it said is a step toward building practical quantum computers at scale.\r\nThe tech giant said … [+2808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wired.jp"
+      },
+      "author": "Stephan Rachel, Miki Anzai",
+      "title": "マイクロソフトの新型チップ「Majorana 1」、量子物理学者が解説するその可能性",
+      "description": "マイクロソフトは2月下旬、量子コンピューター向けの画期的なチップ「Majorana 1」を発表した。同社はこれを「実用的な量子コンピューティングに向けた革新的な飛躍」と位置づけている。量子物理学者であるメルボルン大学の教授が、この成果について説明する。",
+      "url": "https://wired.jp/article/microsoft-just-claimed-a-quantum-breakthrough-a-quantum-physicist-explains-what-it-means/",
+      "urlToImage": "https://media.wired.jp/photos/67be8047d4de43916f3d97ee/16:9/w_1280,c_limit/Majorana-1-003-4000px-1-1000x667.jpeg",
+      "publishedAt": "2025-02-28T00:00:00Z",
+      "content": "Published on wired.com, translated by Miki Anzai, edited by Mamiko Nakano)\r\nWIRED\r\nWIRED VOL.55THE WIRED WORLD IN 2025 \r\nWIREDTHE WIRED WORLD IN 20XX40102025"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wired.jp"
+      },
+      "author": "WIRED STAFF",
+      "title": "『WIRED』日本版編集部が選ぶ、2025年2月に公開した注目の5記事",
+      "description": "この2月に「WIRED.jp」で公開した記事のなかから、東京・恵比寿に旗艦店がオープンしたファッションブランド「LEMAIRE（ルメール）」の庭を手掛けた造園ユニット「veig」へのインタビューや、量子物理学者によるマイクロソフトの新型チップ「Majorana 1」の解説など、編集部が注目した5本のストーリーを紹介する。",
+      "url": "https://wired.jp/article/editors-5-stories-february-2025/",
+      "urlToImage": "https://media.wired.jp/photos/67c529120495e1ba080547a1/16:9/w_1280,c_limit/10MOSTREADSTORIES_re_2402.jpg",
+      "publishedAt": "2025-03-04T03:00:00Z",
+      "content": "photograph: shinsaku yasujima\r\n1960veig &gt;&gt;\r\nCES 2025AIPhotograph: Seokyong Lee/Shutterstock/Aflo\r\nCES 2025AIAIAIUnlocX &gt;&gt;\r\n326WIREDMajorana 1!? &gt;&gt;\r\nTODA BUILDINGTranscription: CG WI… [+178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "Abhimanyu Ghoshal",
+      "title": "Microsoft unveils first quantum chip powered by 'topological qubits'",
+      "description": "Microsoft says it's made a major breakthrough in quantum computing capabilities with the Majorana 1, its first quantum chip, and the first of its kind to be powered by what are called topological qubits.Continue ReadingCategory: Quantum Computing, ScienceTags…",
+      "url": "https://newatlas.com/quantum-computing/microsoft-majorana-1-first-quantum-chip-topological-qubits/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/a3f844c/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fda%2F74%2Fdab760174a329f11d570a60cf434%2Fmicrosoft-says-its-new-chip-represents-a-major-breakthrough-on-the-path-towards-real-world-quantum-computing.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-02-20T11:57:50Z",
+      "content": "Microsoft says it's made a major breakthrough in quantum computing capabilities with the Majorana 1, its first quantum chip, and the first of its kind to be powered by what are called topological qub… [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "Abhimanyu Ghoshal",
+      "title": "Amazon's quantum chip promises error correction with 'cat qubits'",
+      "description": "Following the release of Microsoft's latest quantum computing chip last week, Amazon has unveiled its first one today, after four years in the making.Continue ReadingCategory: Quantum Computing, ScienceTags: Amazon, Quantum, Processing, Chips, Computers",
+      "url": "https://newatlas.com/quantum-computing/amazon-ocelot-quantum-chip-cat-qubits/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/65f4840/2147483647/strip/true/crop/1200x630+0+23/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbb%2Fab%2Fd54aa646432687d8ff52d693d894%2Famazons-ocelot-chip-consists-of-two-0-4-square-inch-silicon-microchips-with-thin-layers-of-superconducting-materials-on-their-surfaces.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-02-28T15:11:00Z",
+      "content": "Following the release of Microsoft's latest quantum computing chip last week, Amazon has unveiled its first one today, after four years in the making.\r\nIt's called Ocelot because it's got 'cat qubits… [+2372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "La Vanguardia"
+      },
+      "author": "Sergio Agudo",
+      "title": "Majorana 1: así es el nuevo chip de Microsoft que marca un antes y un después en computación cuántica",
+      "description": "Microsoft ha presentado Majorana 1, un nuevo chip cuántico que utiliza una arquitectura denominada Topological Core. Se trata de un dispositivo que busca solucionar uno de los principales problemas de la computación cuántica: la inestabilidad de los qubits, l…",
+      "url": "https://www.lavanguardia.com/andro4all/tecnologia/majorana-1-asi-es-el-nuevo-chip-de-microsoft-que-marca-un-antes-y-un-despues-en-computacion-cuantica",
+      "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/02/majorana-1.jpg?width=1200",
+      "publishedAt": "2025-02-19T17:44:57Z",
+      "content": "El chip Majorana 1 podría ser el avance que la computación cuántica estaba esperando\r\nMicrosoft ha presentado Majorana 1, un nuevo chip cuántico que utiliza una arquitectura denominada Topological Co… [+3402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clubic"
+      },
+      "author": "Alexandre Boero",
+      "title": "Le nouveau processeur quantique de Microsoft va changer le monde de l'informatique",
+      "description": "Microsoft a dévoilé mercredi Majorana 1, un processeur quantique qui utilise des qubits topologiques, capable d'accueillir jusqu'à un million de qubits sur une seule puce. Une première mondiale ô combien prometteuse.",
+      "url": "https://www.clubic.com/actualite-554316-le-nouveau-processeur-quantique-de-microsoft-va-changer-le-monde-de-l-informatique.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2279829/raw",
+      "publishedAt": "2025-02-19T19:28:00Z",
+      "content": "Le processeur quantique est une révolution uniquement dans le domaine de la mécanique quantique. Nattendez pas dapplication commerciale avant de très longues années. Il ny a aucune raison pour cela. … [+530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Clubic"
+      },
+      "author": "Mélina LOUPIA",
+      "title": "Particules de Majorana : les scientifiques mettent en doute les récentes revendications de Microsoft sur l'informatique quantique",
+      "description": "Microsoft a annoncé tout récemment avoir créé un « nouvel état de la matière » grâce aux particules de Majorana, une découverte qui pourrait accélérer le développement de l'informatique quantique. La communauté scientifique conteste cependant la validité des …",
+      "url": "https://www.clubic.com/actualite-554640-particules-de-majorana-les-scientifiques-mettent-en-doute-les-recentes-revendications-de-microsoft-sur-l-informatique-quantique.html",
+      "urlToImage": "https://pic.clubic.com/v1/images/2280486/raw",
+      "publishedAt": "2025-02-22T16:01:00Z",
+      "content": "Les physiciens qui ont examiné l'étude publiée dans Nature sont beaucoup moins enthousiastes que Chetan Nayak. Ils contestent même les conclusions de Microsoft. Jay Sau, physicien théoricien de l'Uni… [+804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jandan.net"
+      },
+      "author": "BALI",
+      "title": "量子革命：超导体隐藏行为解锁未来科技",
+      "description": "这一突破或将推动量子信息处理技术迈向新高度",
+      "url": "https://jandan.net/p/119571",
+      "urlToImage": null,
+      "publishedAt": "2025-03-06T00:02:37Z",
+      "content": "BALI @ 2025.03.06 , 08:02\r\n0Floquet Majorana\r\nBabak SeradjehKanpurRekha KumariArijit KunduFloquet Majorana\r\n()\r\n(20-25)Seradjeh\r\nFloquet MajoranaEttore Majorana1937Majorana2000Alexei Kitaev\r\nSeradjeh… [+81 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zerotomastery.io"
+      },
+      "author": null,
+      "title": "Zero to Mastery: Python Monthly Newsletter ",
+      "description": "Andrei Neagoie's must-read monthly Python Newsletter read by 15,000+ Pythonistas. Get up-to-date with the top Python news from last month.",
+      "url": "https://zerotomastery.io/blog/python-monthly-newsletter-february-2025/",
+      "urlToImage": "https://images.ctfassets.net/aq13lwl6616q/6QISfE5q85w790libGuFID/08b80cc5303ddf99e9ff8b3e5cbd480c/Python_Monthly.png",
+      "publishedAt": "2025-02-28T01:43:22Z",
+      "content": "Welcome to the 63rd issue of Python Monthly!\r\nIf its your first time here, welcome, I like you already. If you want the full back story on this monthly newsletter, head here.\r\nThe quick version: I cu… [+7296 chars]"
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "waynewilliams@onmail.com (Wayne Williams)",
+      "title": "Microsoft set to rival Google, IBM with first-of-its-kind quantum chip with topological core architecture",
+      "description": "Microsoft has unveiled Majorana 1, a quantum chip with a Topological Core architecture, paving the way for a one-million-qubit quantum processor.",
+      "url": "https://www.techradar.com/pro/microsoft-set-to-rival-google-ibm-with-first-of-its-kind-quantum-chip-with-topological-core-architecture",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pYotKgFHiwTeUG7g9UfDuG-1200-80.jpg",
+      "publishedAt": "2025-02-24T18:32:00Z",
+      "content": "\u003Cul\u003E\u003Cli\u003EMicrosoft unveils a quantum chip with a Topological Core for stable and scalable qubits\u003C/li\u003E\u003Cli\u003EMajorana 1 features eight topological qubits, aiming for a million-qubit scale \u003C/li\u003E\u003Cli\u003EBreakth… [+2354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Dave Birnbaum, Contributor, \n Dave Birnbaum, Contributor\n https://www.forbes.com/sites/davidbirnbaum/",
+      "title": "Quantum Leap Or False Alarm? Bitcoin’s Fate In The Quantum Age",
+      "description": "What does Microsoft's quantum computing breakthrough mean for bitcoin? The quantum era will bring unprecedented prosperity–but we have to get there first.",
+      "url": "https://www.forbes.com/sites/davidbirnbaum/2025/02/26/quantum-leap-or-false-alarm-bitcoins-fate-in-the-quantum-age/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bf7fce61967b72ced5524b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-26T21:41:18Z",
+      "content": "Majorana 1, the first quantum chip powered by a Topological Core based on a revolutionary new class ... [+] of materials developed by Microsoft. Photos by John Brecher for Microsoft.\r\nJohn Brecher\r\nI… [+13766 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Charlie Fink, Contributor, \n Charlie Fink, Contributor\n https://www.forbes.com/sites/charliefink/",
+      "title": "Niantic To Unload ‘Pokemon Go’ For $3.5 Billion, HP Buys Dead AI Pin",
+      "description": "Niantic exits gaming to focus on AR, HP buys Humane’s AI Pin, Brahma acquires Metaphysic, and Microsoft unveils a quantum chip—plus big moves in XR and AI gaming.",
+      "url": "https://www.forbes.com/sites/charliefink/2025/02/20/niantic-to-unload-pokemon-go-for-35-billion-hp-buys-dead-ai-pin/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67b7cd6c0756e72d81a1006d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-21T01:02:36Z",
+      "content": "Niantic founder and chief executive John Hanke speaks during an interview in San Francisco on ... [+] November 5, 2019. - Pokemon Go maker Niantic on November 6, 2019 moved closer to turning the worl… [+7570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Gil Press, Senior Contributor, \n Gil Press, Senior Contributor\n https://www.forbes.com/sites/gilpress/",
+      "title": "After Google, Microsoft Breakthroughs, Quantum Machines Raises $170M",
+      "description": "Quantum Machines has raised $170 million in series C funding, one of the largest rounds of funding in the quantum industry.",
+      "url": "https://www.forbes.com/sites/gilpress/2025/02/25/after-google-microsoft-breakthroughs-quantum-machines-raises-170m/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67bcb1f8a4177ec5fdc3b1ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-02-25T14:00:00Z",
+      "content": "The quantum computer at the Israeli Quantum Computing Center.\r\nQuantum Machines\r\nQuantum Machines announced today that it has raised $170 million in series C funding, led by PSG Equity and with parti… [+3157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Bernard Marr, Contributor, \n Bernard Marr, Contributor\n https://www.forbes.com/sites/bernardmarr/",
+      "title": "Why We Don’t Have Real Quantum Computing Yet",
+      "description": "Quantum computing promises to revolutionize industries from AI to drug discovery, but significant engineering challenges remain before we see practical applications.",
+      "url": "https://www.forbes.com/sites/bernardmarr/2025/03/05/why-we-dont-have-real-quantum-computing-yet/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67c7f34d9a4814d5a79835a3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-03-05T06:47:53Z",
+      "content": "Quantum computing promises to revolutionize industries from AI to drug discovery, but significant ... [+] engineering challenges remain before we see practical applications.\r\nAdobe Stock\r\nFrom where … [+4450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Qué es el estado topológico de la materia que Microsoft asegura haber alcanzado con un avanzado chip",
+      "description": "Microsoft presentó un avanzado chip que sería clave para crear computadoras cuánticas, capaces de resolver problemas que a ordenadores comunes les tomaría hasta millones de años. ¿Por qué se dice que usa un nuevo estado de la materia?",
+      "url": "https://www.bbc.com/mundo/articles/c5y0jv70px8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/c584/live/490c13a0-effc-11ef-89e2-dd662cfc4c2e.jpg",
+      "publishedAt": "2025-02-21T11:31:49Z",
+      "content": "Fuente de la imagen, Microsoft\r\nPie de foto, El chip Majorana 1 fue presentado por Microsoft el 19 de febrero.\r\nInformación del artículo\u003Cul\u003E\u003Cli\u003EAutor, Redacción*\u003C/li\u003E\u003Cli\u003ETítulo del autor, BBC News Mu… [+6824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hdblog.it"
+      },
+      "author": "HDblog.it",
+      "title": "Nuova Scena: torna su Netflix il talent show rap italiano | Teaser Trailer",
+      "description": "Il programma musicale con Fabri Fibra, Geolier e Rose Villain in arrivo dal 31 marzo con nuove audizioni e sfide per trovare talenti emergenti",
+      "url": "https://www.hdblog.it/spettacolo/articoli/n610670/nuova-scena-s2-rap-rose-villain-netflix-trailer/",
+      "urlToImage": "https://hd2.tudocdn.net/1238287?w=1920",
+      "publishedAt": "2025-03-03T14:10:00Z",
+      "content": "Manca meno di un mese al ritorno di Nuova Scena - Rhythm + Flow Italia, il contest musicale dedicato al mondo rap prodotto da Fremantle che vedrà nuovamente in campo i tre giudici Fabri Fibra, Geolie… [+1966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antyweb.pl"
+      },
+      "author": "Kamil Pieczonka",
+      "title": "Microsoft Majorana 1. Kwantowy procesor oparty na kubitach topologicznych",
+      "description": "Microsoft ogłosił przełom w dziedzinie obliczeń kwantowych, prezentując Majorana 1 - pierwszy na świecie procesor kwantowy wykorzystujący kubity topologiczne. To innowacyjne rozwiązanie może zrewolucjonizować całą branżę, umożliwiając skalowanie do miliona ku…",
+      "url": "https://antyweb.pl/microsoft-majorana-1-kwantowy-procesor",
+      "urlToImage": "https://static.antyweb.pl/img/w_1250,h_550/wp-content/uploads/2025/02/Majorana-1-009-4000px.jpg",
+      "publishedAt": "2025-02-19T16:01:12Z",
+      "content": "Jak dziaa procesor Majorana 1?\r\nMajorana 1 wykorzystuje unikalne waciwoci trybów zerowych Majorany (MZMs), które tworz kubity topologiczne. W tradycyjnych komputerach kwantowych kubity s podatne na z… [+3600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecmundo.com.br"
+      },
+      "author": "Nilton Cesar Monastier Kleina",
+      "title": "Amazon apresenta o Ocelot, primeiro chip de computação quântica da empresa",
+      "description": "A Amazon apresentou nesta quinta-feira (27) o Ocelot, primeiro chip de computação quântica da empresa. O processador deve ser usado como um dos principais componentes nos sistemas da Amazon Web Services e promete diminuir em até cinco anos o prazo para que a …",
+      "url": "https://www.tecmundo.com.br/mercado/403031-amazon-apresenta-o-ocelot-primeiro-chip-de-computacao-quantica-da-empresa.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2025/02/27/27123352312254.jpg?ims=1200xorig",
+      "publishedAt": "2025-02-27T16:15:00Z",
+      "content": "A Amazon apresentou nesta quinta-feira (27) o Ocelot, primeiro chip de computação quântica da empresa. O processador deve ser usado como um dos principais componentes nos sistemas da Amazon Web Servi… [+2507 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Gabriel Sérvio",
+      "title": "Majorana 1: conheça o novo chip quântico da Microsoft que pode mudar tudo",
+      "description": "O chip Majorana 1 representa um avanço crucial na computação quântica, aproximando a promessa de resolver problemas complexos e transformar diversas indústrias\nO post Majorana 1: conheça o novo chip quântico da Microsoft que pode mudar tudo apareceu primeiro …",
+      "url": "https://olhardigital.com.br/2025/02/19/pro/majorana-1-conheca-o-novo-chip-quantico-da-microsoft-que-pode-mudar-tudo/",
+      "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2025/02/Majorana-1-009-4000px-scaled.jpg",
+      "publishedAt": "2025-02-19T16:01:00Z",
+      "content": "A Microsoft anunciou nesta quarta-feira um marco significativo na área da computação quântica: o chip Majorana 1. Este é o primeiro processador quântico do mundo alimentado por qubits topológicos, co… [+4066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ilfattoquotidiano.it"
+      },
+      "author": "F. Q.",
+      "title": "Microsoft presenta il chip quantistico Majorana 1, lo studio su Nature e lo scetticismo di alcuni ricercatori",
+      "description": "La società fondata da Bill Gates ha annunciato una grande balzo in avanti nel mondo del quantum computing con un chip basato su una categoria di materiali chiamati 'superconduttori topologici\nL'articolo Microsoft presenta il chip quantistico Majorana 1, lo st…",
+      "url": "https://www.ilfattoquotidiano.it/2025/02/23/microsoft-presenta-il-chip-quantistico-majorana-1-lo-studio-su-nature-e-lo-scetticismo-di-alcuni-ricercatori/7889022/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2025/02/23/Microsoft-Majoarana.jpg",
+      "publishedAt": "2025-02-23T12:57:15Z",
+      "content": "“Immagina un chip che sta nel palmo della tua mano ma è in grado di risolvere problemi che nemmeno tutti i computer sulla Terra oggi messi insieme riuscirebbero a risolvere!” Viene presentato così da… [+2997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "3dnews.ru"
+      },
+      "author": null,
+      "title": "Физики усомнились в работоспособности квантового процессора Microsoft Majorana 1 на фермионах Майораны",
+      "description": "В среде специалистов складывается мнение, что новый топологический квантовый процессор Microsoft Majorana 1 на гипотетических майорановских фермионах, сродни сути квантовой физики, благодаря которой знаменитая кошка Шрёдингера и мертва, и жива одновременно. Ф…",
+      "url": "https://3dnews.ru/1118722/fiziki-usomnilis-v-rabotosposobnrosti-kvantovogo-protsessora-microsoft-majorana-1-na-fermionah-mayornani",
+      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2025/02/23/1118722/mic_major_00.jpg",
+      "publishedAt": "2025-02-23T08:26:00Z",
+      "content": ", Microsoft Majorana 1 , , , . , . , . !\r\n: Microsoft\r\n, Microsoft Majorana 1 (« 1»). , . , . , .\r\n Microsoft, Majorana 1 800 (), . , , . , — , , .\r\n, Microsoft . , , Majorana 1 . .\r\n« - , , , ?», — … [+403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "3dnews.ru"
+      },
+      "author": null,
+      "title": "Microsoft представила Majorana 1 — квантовый процессор из будущего с ещё не открытой физиками частицей",
+      "description": "Компания Microsoft объявила о революции в сфере квантовых вычислений. Специалисты компании разработали и воплотили в «железе» абсолютно новый принцип кубитов, который ранее никем не был реализован. В основе квантового процессора Majorana 1 («Майорана 1») заде…",
+      "url": "https://3dnews.ru/1118566/microsoft-predstavila-majorana-1-kvantoviy-protsessor-iz-budushchego-s-eshchyo-ne-otkritoy-fizikami-chastitsey",
+      "urlToImage": "https://3dnews.ru/assets/external/illustrations/2025/02/20/1118566/mic_major_00.jpg",
+      "publishedAt": "2025-02-20T06:57:00Z",
+      "content": "Microsoft . «» , . Majorana 1 (« 1») — . , .\r\n: Microsoft\r\n, . , . . , Microsoft ? , . , . , « -».\r\n 1990- , , . Microsoft . , . — , . — , . .\r\nMicrosoft Majorana 1 . H, , . , . Majorana 1 , 2030 Mic… [+157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Geekpark.net"
+      },
+      "author": null,
+      "title": "iPhone 16e 登场，4499 起支持苹果 AI；传 DeepSeek 考虑融资，估值千亿美元；京东美团为骑手交五险一金",
+      "description": "曝 DeepSeek 首次考虑外部融资，估值达千亿美元\n北京时间 2 月 20 日消息，知情人士透露，DeepSeek 正在考虑首次外部筹款。最近几周，包括阿里巴巴、国有基金在内的多个投资者都表示有兴趣为 DeepSeek 提供资金。不过，DeepSeek、阿里巴巴、中投公司目前尚未回复。\n\n据透露，除了讨论是否应该筹集资金外，DeepSeek 及幻方的高管还在讨论这家初创公司是否应该从「主要专注于研究」转向「建立一个产生可观收入并最终盈利的业务」。目前行业专家对 DeepSeek 的估值分歧巨大，部分分析认为其…",
+      "url": "https://www.geekpark.net/news/346081",
+      "urlToImage": "https://imgslim.geekpark.net/uploads/image/file/6f/92/6f928a39b1165dcd323d8d0af9725246.jpg",
+      "publishedAt": "2025-02-20T00:05:11Z",
+      "content": "DeepSeek \r\n 2 20 DeepSeek DeepSeek DeepSeek\r\nDeepSeek DeepSeek Open AI 50%cnBeta\r\n2 19 2025 3 1 \r\n2025 \r\n 2 11 2025 5 1 IT \r\n AI QQ \r\n 2 19 QQ ima CSIG TEG CSIG \r\n CSIG ——QQ 2025 1 QQ 4.3 \r\n AI AI im… [+514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecnoblog.net"
+      },
+      "author": "Giovanni Santa Rosa",
+      "title": "Microsoft apresenta chip quântico Majorana 1, com arquitetura inédita",
+      "description": "Cientistas da Microsoft afirmam ter desenvolvido método capaz de colocar 1 milhão de bits quânticos em um chip que cabe na palma da mão\nMicrosoft apresenta chip quântico Majorana 1, com arquitetura inédita",
+      "url": "https://tecnoblog.net/noticias/microsoft-apresenta-chip-quantico-majorana-1-com-arquitetura-inedita/",
+      "urlToImage": "https://files.tecnoblog.net/wp-content/uploads/2025/02/microsoft-majorana-1-edited.jpg",
+      "publishedAt": "2025-02-19T19:05:43Z",
+      "content": "Majorana 1 é o primeiro chip quântico a ter o estado topológico da matéria (imagem: divulgação)\r\nA Microsoft anunciou nesta quarta-feira (19/02) a criação do Majorana 1, seu primeiro processador quân… [+4061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecnoblog.net"
+      },
+      "author": "Giovanni Santa Rosa",
+      "title": "Amazon apresenta chip quântico com “qubit gato” para reduzir erros",
+      "description": "Abordagem promete reduzir em até 90% o custo para corrigir erros. Google e Microsoft também desenvolveram soluções próprias.\nAmazon apresenta chip quântico com “qubit gato” para reduzir erros",
+      "url": "https://tecnoblog.net/noticias/amazon-apresenta-chip-quantico-com-qubit-gato-para-reduzir-erros/",
+      "urlToImage": "https://files.tecnoblog.net/wp-content/uploads/2025/02/ocelot-amazon.jpeg",
+      "publishedAt": "2025-02-27T20:37:53Z",
+      "content": "Resumo\r\n\u003Cul\u003E\u003Cli\u003EA Amazon lançou o chip quântico Ocelot, que traz um componente chamado qubit gato, inspirado no conceito do gato de Schrödinger.\u003C/li\u003E\u003Cli\u003EO Ocelot conta com 14 componentes, incluindo c… [+2843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frenchweb.fr"
+      },
+      "author": "LA REDACTION DE FRENCHWEB.FR",
+      "title": "Des Majoranas à un ordinateur quantique d’un million de qubits : Microsoft ouvre une nouvelle ère",
+      "description": "Microsoft franchit une étape déterminante dans le quantique avec le lancement de Majorana 1, le premier processeur quantique fondé sur une architecture topologique. Ce développement marque la concrétisation d’un pari scientifique et industriel initié il y a v…",
+      "url": "https://www.frenchweb.fr/des-majoranas-a-un-ordinateur-quantique-dun-million-de-qubits-microsoft-ouvre-une-nouvelle-ere/451472",
+      "urlToImage": "https://www.frenchweb.fr/wp-content/uploads/2025/02/Chetan-Nayak-microsoft.png",
+      "publishedAt": "2025-02-20T08:24:49Z",
+      "content": "Microsoft franchit une étape déterminante dans le quantique avec le lancement de Majorana 1, le premier processeur quantique fondé sur une architecture topologique. Ce développement marque la concrét… [+4836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frenchweb.fr"
+      },
+      "author": "LA REDACTION DE FRENCHWEB.FR",
+      "title": "Aldebaran en péril / Microsoft dévoile Majorana 1 / Les levées de fonds à suivre",
+      "description": "Mistral AI étend son expertise linguistique avec MistralSaba Après le succès de l’AI Action Summit à Paris, Mistral AI dévoile MistralSaba, un modèle de langage de 24 milliards de paramètres conçu pour maîtriser les langues du Moyen-Orient (arabe) et de l’Asi…",
+      "url": "https://www.frenchweb.fr/aldebaran-en-peril-microsoft-devoile-majorana-1-les-levees-de-fonds-a-suivre/451471",
+      "urlToImage": "https://www.frenchweb.fr/wp-content/uploads/2025/02/Robot_GDM.png",
+      "publishedAt": "2025-02-20T09:56:10Z",
+      "content": "Mistral AI étend son expertise linguistique avec MistralSaba\r\nAprès le succès de lAI Action Summit à Paris, Mistral AI dévoile MistralSaba, un modèle de langage de 24 milliards de paramètres conçu po… [+2750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "author": "Edd Gent",
+      "title": "Microsoft Claims Quantum Computing Breakthrough With Its Exotic New Chip",
+      "description": "The company believes devices with a million topological qubits are possible.\nThe post Microsoft Claims Quantum Computing Breakthrough With Its Exotic New Chip appeared first on SingularityHub.",
+      "url": "https://singularityhub.com/2025/02/20/microsoft-claims-quantum-computing-breakthrough-with-its-exotic-new-chip/",
+      "urlToImage": "https://singularityhub.com/uploads/2025/02/Microsoft-Majorana-1-quantum-computing-chip.jpeg?auto=webp",
+      "publishedAt": "2025-02-20T20:26:48Z",
+      "content": "Many years ago, Microsoft committed itself to an exotic, high-risk approach to quantum computing. Now, as the company unveils its first prototype chip, it says its perseverance has paid off.\r\nOne of … [+4567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tinhte.vn"
+      },
+      "author": "no-reply@tinhte.vn (P.W), P.W",
+      "title": "\"Hình thái vật chất mới\" trong chip máy tính lượng tử của Microsoft là gì, giúp ích gì cho ngành?",
+      "description": "Kiến thức vật lý cơ bản, ngoại trừ những trường hợp ngoại lệ, chỉ có thể tạo ra trong những điều kiện vô cùng đặc biệt để tạo ra hạt tích điện (plasma), thì mọi vật chất trên trái đất chỉ tồn tại dưới ba dạng: Rắn, lỏng và khí.",
+      "url": "https://tinhte.vn/thread/hinh-thai-vat-chat-moi-trong-chip-may-tinh-luong-tu-cua-microsoft-la-gi-giup-ich-gi-cho-nganh.3963250/",
+      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8650612_Majorana-1-009-4000px-scaled.jpg",
+      "publishedAt": "2025-02-24T13:02:07Z",
+      "content": "gii quyt vn này, Willow trong toàn b h thng máy tính lng t ca Google ng dng mt gii pháp chnh li. Có mt khái nim gi là gii hn chnh li, ct mc mà các nhà khoa hc máy tính ã hng ti trong vài chc nm. Và t… [+6672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tinhte.vn"
+      },
+      "author": "no-reply@tinhte.vn (Lê Q Khánh), Lê Q Khánh",
+      "title": "Microsoft giới thiệu chip lượng tử",
+      "description": "Chúng ta đều biết rằng vật chất có 3 trạng thái chính: rắn, lỏng và khí. Nhưng Microsoft vừa tuyên bố rằng họ đã tạo ra một trạng thái vật chất mới, trạng thái tôpô (topological state), trong quá trình phát triển máy tính lượng tử của mình.",
+      "url": "https://tinhte.vn/thread/microsoft-gioi-thieu-chip-luong-tu.3961377/",
+      "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8646338_microsoft-majorana-1-cover.jpg",
+      "publishedAt": "2025-02-20T12:03:31Z",
+      "content": "Con chip Majorana 1 ca Microsoft.Ngoài vic y nhanh tin b trong nhiu lnh vc khoa hc và công ngh, mt máy tính lng t mnh còn có th phá v các h thng mã hóa ang bo v bí mt quc gia. Bt k bc tin nào trong l… [+2108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neowin"
+      },
+      "author": "Paul Hill",
+      "title": "Amazon Web Services unveils new quantum computer chip called Ocelot",
+      "description": "AWS has unveiled a new quantum computing chip called Ocelot. It drastically reduces the costs around error resistance, which is really important. Read more...",
+      "url": "https://www.neowin.net/news/amazon-web-services-unveils-new-quantum-computer-chip-called-ocelot/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/02/1740660029_about-amazon-hero-inline001-internals-of-a-dilution-refrigerator-at-the-aws-center-for-quantum-computing-in-pasadena-calif-credit-aws_story.jpg",
+      "publishedAt": "2025-02-27T13:20:01Z",
+      "content": "Image via Amazon\r\nFebruary has been a hot month for quantum computing, the other week we had the unveiling of Microsoft's Majorana 1, which made breakthroughs in error resistance with topological qub… [+1734 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neowin"
+      },
+      "author": "Taras Buria",
+      "title": "Microsoft Weekly: Skype dies, Copilot pirates Windows, Fable delays, and more",
+      "description": "This week's Microsoft Weekly news recap is about Skype finally going six feet under, Copilot helping users pirate Windows, Fable delays, new updates, fresh preview builds, and more. Read more...",
+      "url": "https://www.neowin.net/news/microsoft-weekly-skype-dies-copilot-pirates-windows-fable-delays-and-more/",
+      "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2025/02/1740657458_microsoft_weekly_story.jpg",
+      "publishedAt": "2025-03-02T12:02:02Z",
+      "content": "In this episode of Microsoft Weekly, we look at Microsoft finally pulling the plug on Skype, Copilot helping users pirate Windows, Playground Games delaying Fable, new Windows 11 preview builds, fres… [+10031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet.com.tr"
+      },
+      "author": "hurriyet.com.tr",
+      "title": "20 yıl araştırdılar... Microsoft'tan devrim gibi teknoloji! Tek çipte 8 kuantum biti",
+      "description": "Microsoft ilk kuantum bilişim çipinde maddenin yeni halini kullanıyor. Microsoft'un Majorana 1 çipi sekiz topolojik kuantum biti içeriyor. Microsoft, ilk kuantum hesaplama çipini oluşturmanın, topolojik bir durum olarak adlandırdığı yeni bir madde durumu yara…",
+      "url": "https://www.hurriyet.com.tr/teknoloji/20-yil-arastirdilar-microsofttan-devrim-gibi-teknoloji-tek-cipte-8-kuantum-biti-42701016",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/0x0/67b6cfa4af5c08949e2c8f15.jpg",
+      "publishedAt": "2025-02-20T06:46:00Z",
+      "content": "p&gt;Microsoft Çaramba günü ilk kuantum biliim çipi Majorana 1'i duyurdu. Bu baar, irketin bu alanda yaklak yirmi yl süren aratrmalarnn ardndan geldi, ancak Microsoft Majorana 1'i ina etmenin, topolo… [+3517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Computerra.ru"
+      },
+      "author": "Компьютерра",
+      "title": "Microsoft создала квантовый чип Majorana 1 на топопроводниках",
+      "description": "Корпорация Microsoft объявила о создании Majorana 1 — первого в мире квантового чипа, который работает на основе новой архитектуры Topological Core. Это достижение открывает перспективы для разработки квантовых компьютеров, способных эффективно решать сложные…",
+      "url": "https://www.computerra.ru/309033/microsoft-sozdala-kvantovyj-chip-majorana-1-na-topoprovodnikah/",
+      "urlToImage": "https://www.computerra.ru/wp-content/uploads/2025/02/Majorana-1-001-Hero.jpg",
+      "publishedAt": "2025-02-20T07:55:39Z",
+      "content": "Microsoft Majorana 1 , Topological Core. , .\r\nMajorana 1 , . . , , , , , . .\r\n« : . ? , , , , ».\r\n , Microsoft\r\nMajorana 1 . , , . Microsoft Majorana 1. , .\r\n« , . , , , , . ».\r\n , Microsoft\r\n, . , .… [+21 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Computerra.ru"
+      },
+      "author": "Компьютерра",
+      "title": "Amazon Web Services (AWS) анонсировала Ocelot — свой первый квантовый вычислительный чип",
+      "description": "Amazon Web Services (AWS) представила свой первый квантовый вычислительный чип Ocelot, разработанный совместно с Caltech. Это ставит Amazon в один ряд с конкурентами, такими как Microsoft и Google, которые также анонсировали свои квантовые чипы. Amazon Web Se…",
+      "url": "https://www.computerra.ru/309560/amazon-web-services-aws-anonsirovala-ocelot-svoj-pervyj-kvantovyj-vychislitelnyj-chip/",
+      "urlToImage": "https://www.computerra.ru/wp-content/uploads/2025/02/02-1.png",
+      "publishedAt": "2025-02-27T14:23:11Z",
+      "content": "Amazon Web Services (AWS) Ocelot, Caltech. Amazon , Microsoft Google, .\r\nAmazon Web Services (AWS) Ocelot .  Amazon , Microsoft Google, Majorana Willow .\r\n . 2019 AWS Braket, , , QuEra Rigetti.\r\n ( )… [+77 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PC Gamer"
+      },
+      "author": "Jacob Fox",
+      "title": "Microsoft's wacky Majorana 1 chip, powered by an 'entirely new state of matter', could have industrial quantum computing here 'in years, not decades'",
+      "description": "And not a single one of my parallel selves understands a lick of it.",
+      "url": "https://www.pcgamer.com/hardware/processors/microsofts-wacky-majorana-1-chip-powered-by-an-entirely-new-state-of-matter-could-have-industrial-quantum-computing-here-in-years-not-decades/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/R72ME65usdNZiYAcqXA27g-1200-80.jpg",
+      "publishedAt": "2025-02-20T16:16:43Z",
+      "content": "Yes, the scientists are doing weird stuff again, and this weird stuff is sure to lead to other weird stuff and plenty of even more peculiar technology in the future. At least, that's usually my readi… [+5825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Keumars Afifi-Sabet",
+      "title": "Breakthrough quantum chip that harnesses new state of matter could set us on the path to quantum supremacy",
+      "description": "Microsoft scientists have created a quantum processor that taps into a rare state of matter that was first theorized in the 1930s, paving the way for a processor with a million qubits within years.",
+      "url": "https://www.livescience.com/technology/computing/quantum-processor-that-uses-entirely-new-state-of-matter-could-set-us-on-the-path-to-quantum-supremacy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/f6w9NiJCdfa47wsqjgmx5E-1200-80.jpg",
+      "publishedAt": "2025-02-19T16:00:10Z",
+      "content": "Scientists at Microsoft have built a new quantum computing chip using a special category of material capable of tapping into a new state of matter. This breakthrough could enable researchers to build… [+8586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BetaNews"
+      },
+      "author": "Brian Fagioli",
+      "title": "Microsoft’s Majorana 1 quantum chip could break encryption and expose your data to hackers",
+      "description": "Microsoft is moving closer to quantum computing supremacy with its Majorana 1 chip, a development that could change cybersecurity forever. While the Windows-maker touts this as progress, the reality is far more concerning. The encryption that protects banking…",
+      "url": "https://betanews.com/2025/02/19/microsoft-majorana-1-quantum-encryption-threat/",
+      "urlToImage": "https://betanews.com/wp-content/uploads/2025/02/ImageDrain-20250220T011041.915Z-50x50.jpeg",
+      "publishedAt": "2025-02-20T01:39:22Z",
+      "content": "Microsoft is moving closer to quantum computing supremacy with its Majorana 1 chip, a development that could change cybersecurity forever. While the Windows-maker touts this as progress, the reality … [+1998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Francisco Rodrigues, Oliver Knight",
+      "title": "Crypto Daybook Americas: Ye Adds to Memecoin Turmoil as Broader Market Languishes",
+      "description": "The day ahead in crypto: Feb. 21, 2025",
+      "url": "https://www.coindesk.com/daybook-us/2025/02/21/crypto-daybook-americas-ye-adds-to-memecoin-turmoil-as-broader-market-languishes",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/d884afbe5b53a7e89960cbb6a386ad90b7f4e6b8-700x430.png?auto=format",
+      "publishedAt": "2025-02-21T12:00:00Z",
+      "content": "By Francisco Rodrigues (All times ET unless indicated otherwise)\r\nCryptocurrency prices are rising after the U.S. Securities and Exchange Commissions former crypto enforcement unit transitioned into … [+10275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macitynet.it"
+      },
+      "author": "Antonio Dini",
+      "title": "Microsoft svela Majorana 1, il chip che rivoluziona il computing quantistico",
+      "description": "Dopo 17 anni di ricerca, l'azienda di Redmond ha creato un processore basato su particelle teorizzate dal fisico italiano Ettore Majorana che promette di portare il quantum computing a livello industriale entro dieci anni\n- su macitynet.it Microsoft svela Maj…",
+      "url": "https://www.macitynet.it/microsoft-svela-majorana-1-il-chip-che-rivoluziona-il-computing-quantistico/",
+      "urlToImage": "https://www.macitynet.it/wp-content/uploads/2025/02/Il-chip-Microsoft-Majorana-I-Immagine-Microsoft.jpg",
+      "publishedAt": "2025-02-23T08:59:31Z",
+      "content": "Come quello che arriva dalle retrovie e passa davanti a tutti mentre meno se l’aspettano, Microsoft ha raggiunto un risultato che molti credevano impossibile: dopo 17 anni di ricerca, ha annunciato l… [+10856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Macitynet.it"
+      },
+      "author": "Daniele Piccinelli",
+      "title": "Microsoft prova Office gratis con pubblicità",
+      "description": "Il pacchetto di produttività più celebre al mondo sperimenta una nuova formula con Office gratis con pubblicità e funzioni limitate\n- su macitynet.it Microsoft prova Office gratis con pubblicità",
+      "url": "https://www.macitynet.it/microsoft-prova-office-gratis-pubblicita/",
+      "urlToImage": "https://www.macitynet.it/wp-content/uploads/2025/02/microsoft-office-365-ico.jpg",
+      "publishedAt": "2025-02-25T09:29:00Z",
+      "content": "L’aggettivo gratis o gratuito non è mai stato associato alla suite di produttività per l’ufficio più longeva e celebre al mondo ma, forse per la prima volta, Microsoft sta sperimentando con una nuova… [+1866 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Powerful quantum computers in years not decades, says Microsoft",
+      "description": "It says a new chip it has created could end up being as important a breakthrough as the semiconductor.",
+      "url": "https://www.bbc.com/news/articles/cj3e3252gj8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/79a8/live/c7bf8d20-ee18-11ef-adfc-71abea2c6a0e.jpg",
+      "publishedAt": "2025-02-19T16:56:01Z",
+      "content": "Chris VallanceSenior Technology Reporter\r\nMicrosoft has unveiled a new chip called Majorana 1 that it says will enable the creation of quantum computers able to solve \"meaningful, industrial-scale pr… [+4705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hwupgrade.it"
+      },
+      "author": null,
+      "title": "Majorana 1, il primo processore quantistico basato su qubit topologici. Microsoft: è una rivoluzione",
+      "description": "Microsoft ha presentato Majorana 1, il primo processore quantistico basato su qubit topologici. L'azienda promette computer quantistici utili in pochi anni grazie a un'architettura progettata per ospitare fino a 1 milione di qubit.",
+      "url": "https://www.hwupgrade.it/news/cpu/majorana-1-il-primo-processore-quantistico-basato-su-qubit-topologici-microsoft-e-una-rivoluzione_135889.html",
+      "urlToImage": "https://www.hwupgrade.it/i/n/microsoft-majorana-1_720.jpg",
+      "publishedAt": "2025-02-20T05:49:43Z",
+      "content": "Majorana 1 è il primo processore quantistico al mondo basato su qubit topologici. È stato realizzato da Microsoft. Secondo la casa di Redmond, il nuovo processore \"rappresenta un punto di svolta nel … [+5280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hwupgrade.it"
+      },
+      "author": null,
+      "title": "Amazon Web Services ha svelato Ocelot, il suo primo processore quantistico",
+      "description": "Il nuovo chip Ocelot utilizza un'architettura scalabile per ridurre la correzione degli errori fino al 90% e accelerare lo sviluppo di applicazioni di calcolo quantistico nel mondo reale. Alla base di tutto ci sono i \"cat qubit\".",
+      "url": "https://www.hwupgrade.it/news/cpu/amazon-web-services-ha-svelato-ocelot-il-suo-primo-processore-quantistico_136180.html",
+      "urlToImage": "https://www.hwupgrade.it/i/n/aws-ocelot-processore-quantistico_720.jpg",
+      "publishedAt": "2025-02-28T05:07:38Z",
+      "content": "Amazon Web Services (AWS) haannunciato Ocelot, un nuovo processore quantistico che, rispetto agli approcci attuali, punta a ridurre i costi di implementazione della correzione degli errori quantistic… [+5101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sapo.pt"
+      },
+      "author": "Rui Neto",
+      "title": "Microsoft revela o Majorana 1, o seu primeiro chip quântico. 17 anos de investigação!",
+      "description": "A Microsoft revelou o seu primeiro chip quântico, o Majorana 1, baseado numa arquitetura de núcleo topológico. Este foi concebido através de um novo processo que visa ultrapassar desafios relacionados com a escalabilidade e...",
+      "url": "https://pplware.sapo.pt/high-tech/microsoft-revela-o-majorana-1-o-seu-primeiro-chip-quantico/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/majorana_1_microsoft_01.jpg",
+      "publishedAt": "2025-02-20T15:00:27Z",
+      "content": "A Microsoft revelou o seu primeiro chip quântico, o Majorana 1, baseado numa arquitetura de núcleo topológico. Este foi concebido através de um novo processo que visa ultrapassar desafios relacionado… [+3286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sapo.pt"
+      },
+      "author": "Rui Neto",
+      "title": "“Avanços na IA são apenas manipulações dos benchmarks”, afirma CEO da Microsoft",
+      "description": "Satya Nadella, CEO da Microsoft, afirmou que os avanços na inteligência artificial (IA) são apenas manipulações dos benchmarks e que a sua evolução não está a ser corretamente avaliada. Segundo ele, o verdadeiro impacto...",
+      "url": "https://pplware.sapo.pt/inteligencia-artificial/avancos-na-ia-sao-apenas-manipulacoes-dos-benchmarks-afirma-ceo-da-microsoft/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/Satya-Nadella.webp",
+      "publishedAt": "2025-02-23T16:00:17Z",
+      "content": "Satya Nadella, CEO da Microsoft, afirmou que os avanços na inteligência artificial (IA) são apenas manipulações dos benchmarks e que a sua evolução não está a ser corretamente avaliada. Segundo ele, … [+2645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sapo.pt"
+      },
+      "author": "Ana Sofia Neto",
+      "title": "E os destaques tecnológicos da semana que passou foram…",
+      "description": "Nesta semana que passou, vimos o smartphone dobrável mais fino de sempre a chegar ao mercado, o BYD ATTO a chegar a Portugal, a Microsoft a lançar o seu primeiro chip quântico, o aguardado...",
+      "url": "https://pplware.sapo.pt/informacao/e-os-destaques-tecnologicos-da-semana-que-passou-foram-oppo-majorana-apple-byd/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2025/02/destaques23_02.jpg",
+      "publishedAt": "2025-02-23T22:30:22Z",
+      "content": "Nesta semana que passou, vimos o smartphone dobrável mais fino de sempre a chegar ao mercado, o BYD ATTO a chegar a Portugal, a Microsoft a lançar o seu primeiro chip quântico, o aguardado Majorana 1… [+4062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Zo Ahmed",
+      "title": "Microsoft Majorana 1 chip promises real quantum computing within years, not decades",
+      "description": "The Majorana 1 comes after nearly two decades of research. The big claims come thanks to Microsoft's unique approach to the quantum problem. Scientists at the company have engineered a first-of-its-kind \"topoconductor\" material that they say exploits an exoti…",
+      "url": "https://www.techspot.com/news/106849-microsoft-new-majorana-1-chip-promises-real-quantum.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/02/2025-02-20-image-7.jpg",
+      "publishedAt": "2025-02-20T13:41:00Z",
+      "content": "Forward-looking: Microsoft has unveiled a new quantum chip called \"Majorana 1\" that claims will make scaled, real-world quantum computing a reality in just years rather than decades. It's palm-sized … [+2695 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "InfoQ.com"
+      },
+      "author": "Steef-Jan Wiggers",
+      "title": "AWS Introduces a New Quantum Computing Chip with Ocelot",
+      "description": "AWS announced Ocelot, an innovative quantum computing chip designed to revolutionize error correction, reducing it by up to 90%. This cutting-edge architecture integrates 'cat qubit' technology, marking a significant advancement in quantum applications. As Oc…",
+      "url": "https://www.infoq.com/news/2025/03/aws-ocelot-quantum-chip/",
+      "urlToImage": "https://res.infoq.com/news/2025/03/aws-ocelot-quantum-chip/en/headerimage/generatedHeaderImage-1741009085029.jpg",
+      "publishedAt": "2025-03-05T10:00:00Z",
+      "content": "AWS recently announced Ocelot, a new quantum computing chip. The chip, developed by the AWS Center for Quantum Computing at Caltech, uses a scalable architecture that, according to the company, can r… [+2999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internazionale.it"
+      },
+      "author": "Internazionale",
+      "title": "Il chip di Majorana",
+      "description": "La Microsoft ha presentato un nuovo tipo di chip quantistico chiamato Majorana 1. Il dispositivo è composto da otto qubit “topologici”, basati su una quasiparticella… Leggi",
+      "url": "https://www.internazionale.it/magazine/2025/02/27/il-chip-di-majorana",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2025-02-27T11:42:44Z",
+      "content": "La Microsoft ha presentato un nuovo tipo di chip quantistico chiamato Majorana 1. Il dispositivo è composto da otto qubit topologici, basati su una quasiparticella chiamata fermione di Majorana. Seco… [+517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tiernan Ray （Special to ZDNET.com） 翻訳校正： 編集部",
+      "title": "マイクロソフトが量子コンピューターで一歩前進--量子チップ「Majorana 1」の可能性と課題",
+      "description": "マイクロソフトの量子コンピューティング科学者たちは、長年の目標であった「トポロジカル量子ビット」の構築に成功したと発表した。",
+      "url": "https://japan.zdnet.com/article/35229741/",
+      "urlToImage": "https://japan.zdnet.com/storage/2025/02/25/915c5d1db0ebfe6b65bdfd3b96bdc482/microsoft-2025-majorana-1-005-4000px-1-1000x667-1_l.jpg",
+      "publishedAt": "2025-02-24T23:28:00Z",
+      "content": "ZDNET JapanZiff DavisZDNET Japan is operated by Asahi Interactive under license from Ziff Davis.\r\nCopyright (c) 2025 ASAHI INTERACTIVE, Inc. All rights reserved. No\r\n reproduction\r\n or republication … [+26 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Roch Arene",
+      "title": "« 250 ans d’innovation en 25 ans avec l’informatique quantique et l’IA », les déclarations chocs de Microsoft",
+      "description": "Microsoft franchit une étape clé en informatique quantique avec la puce Majorana 1. Satya Nadella, le PDG du groupe américain y voit une révolution comparable au transistor.",
+      "url": "https://www.zdnet.fr/actualites/250-ans-dinnovation-en-25-ans-avec-linformatique-quantique-et-lia-les-declarations-chocs-de-microsoft-406869.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/02/majorana-1-009-4000px-scaled-1.jpg",
+      "publishedAt": "2025-02-24T08:12:34Z",
+      "content": "Microsoft franchit une étape majeure dans linformatique quantique et la modélisation des mondes virtuels. Dans une interview, son PDG a annoncé une avancée révolutionnaire : le développement de la pu… [+4985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Guillaume Serries",
+      "title": "Amazon assure que ce sont les transistors qui font d'Ocelot sa puce quantique la plus efficace",
+      "description": "À la suite des percées réalisées par Microsoft et Google dans le domaine des puces quantiques, les scientifiques d'AWS publient leurs travaux. De quoi compter un acteur de plus dans la compétition.",
+      "url": "https://www.zdnet.fr/actualites/amazon-assure-que-ce-sont-les-transistors-qui-font-docelot-sa-puce-quantique-la-plus-efficace-407332.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/03/amazon-aws-2025-ocelot-quantum-circuit-view-1920x1080-ocelot.webp",
+      "publishedAt": "2025-03-03T11:15:44Z",
+      "content": "Amazon Web Services est le troisième des trois grands géants du cloud computing à annoncer en quelques semaines une percée dans le domaine des puces quantiques, après Microsoft la semaine dernière et… [+5638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Marc Zaffagni",
+      "title": "Le Bloc-notes et Paint de Windows sont toujours gratuits, mais l'IA vous coûtera cher",
+      "description": "Chaque utilisation de l'IA dans le Bloc-notes et Paint sous Windows 11 consomme un crédit d'un abonnement Microsoft 365.",
+      "url": "https://www.zdnet.fr/actualites/le-bloc-notes-et-paint-de-windows-sont-toujours-gratuits-mais-lia-vous-coutera-cher-406868.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/02/paint-copilot.jpg",
+      "publishedAt": "2025-02-24T08:12:34Z",
+      "content": "Pendant des années, nous avons pu utiliser librement toutes les fonctionnalités des applications Windows comme le Bloc-notes et Paint. Mais ces jours semblent révolus. Certes, les fonctionnalités de … [+5276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet France"
+      },
+      "author": "Guillaume Serries",
+      "title": "Dassault Systèmes : le nouveau boss pivote vers \"l'économie générative\"",
+      "description": "Pascal Daloz assure pouvoir intégrer le savoir faire de la société côté IA avec la vague de l'IA Gen. De quoi assumer un rôle leader dans l'économie de la connaissance.",
+      "url": "https://www.zdnet.fr/actualites/dassault-systemes-le-nouveau-boss-pivote-vers-leconomie-generative-406915.htm",
+      "urlToImage": "https://www.zdnet.fr/wp-content/uploads/zdnet/2025/02/img_0212.jpeg",
+      "publishedAt": "2025-02-25T05:21:02Z",
+      "content": "3DEXPERIENCE World 2025 (Houston) - Plus de 4000 personnes étaient présentes hier à l'ouverture de la conférence annuelle de Dassault Systèmes, le premier éditeur français.\r\nUne édition marquée par l… [+6651 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Jordan Novet, CNBC",
+      "title": "Microsoft reveals its first quantum computing chip, the Majorana 1",
+      "description": "Microsoft on Wednesday announced Majorana 1, its first quantum computing chip.",
+      "url": "https://www.nbcnews.com/business/business-news/microsoft-reveals-first-quantum-computing-chip-majorana-1-rcna192871",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250219-microsoft-Majorana-1-ew-216p-18a206.jpg",
+      "publishedAt": "2025-02-19T19:24:02Z",
+      "content": "Microsoft on Wednesday announced Majorana 1, its first quantum computing chip. \r\nThe achievement comes after the company has spent nearly two decades of research in the field. \r\nTechnologists believe… [+2661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "Microsoft’s Quantum Chip Breakthrough Accelerates Threat to Encryption Protocols",
+      "description": "Microsoft has developed the first ever quantum chip, shortening the timeframe for when quantum computers will break exiting encryption",
+      "url": "https://www.infosecurity-magazine.com/news/microsoft-quantum-chip-encryption/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/d41f0964-5aff-447f-bff8-aadc2cb81156.jpg",
+      "publishedAt": "2025-02-21T09:30:00Z",
+      "content": "Quantum computers capable of breaking current encryption protocols will be available in “years, not decades,” following the development of the world’s first quantum chip.\r\nMicrosoft made the assessme… [+3844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Infosecurity Magazine"
+      },
+      "author": "James Coker",
+      "title": "Vodafone Trials Quantum-Safe Tech to Protect Smartphone Browsing",
+      "description": "Telecoms provider Vodafone has developed the new proof of concept with IBM, as it seeks to implement post-quantum cryptography ahead of anticipated quantum-based attacks",
+      "url": "https://www.infosecurity-magazine.com/news/vodafone-trials-quantum-safe/",
+      "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/5d250f92-8e78-4aa6-b7a9-035045dfbbb1.jpg",
+      "publishedAt": "2025-03-03T12:00:00Z",
+      "content": "Telecoms provider Vodafone is trialling new quantum-safe technology, designed to protect smartphone users from future quantum-enabled attacks while browsing the internet.\r\nThe UK-based company reveal… [+2765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unwire.hk"
+      },
+      "author": "肥倫",
+      "title": "微軟打開量子大門 推出 Majorana 1 量子處理器",
+      "description": "微軟宣布在量子計算領域取得重大突破，推出全新「Majorana 1」量子處理器。這款處理器採用全新架構，基於研究了長達17年的新材料——Topoconductor，能夠控制被稱為「Majorana 粒子」的特殊量子粒子，從而提升量子位（qubits）的穩定性。量子位是量子計算的核心，微軟的研究成功讓 Majorana 1 處理器將近百萬個量子位整合到與普通電腦 CPU 大小相近的晶片上，為未來解決醫療、材料科學等領域的複雜問題鋪平道路，例如分解微塑膠、開發自癒材料、優化物流供應鏈，甚至破解高強度加密技術。突破性新…",
+      "url": "https://unwire.hk/2025/02/20/microsoft-topoconductor-quantum-chip/fun-tech/",
+      "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2025/02/fb_photo12-1.png",
+      "publishedAt": "2025-02-20T02:06:54Z",
+      "content": "Majorana 117TopoconductorMajorana qubits\r\n Majorana 1 CPU \r\nTopconductor Majorana \r\n Topconductor Majorana Topological Qubits\r\nDARPA 2033 \r\n:"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iphones.ru"
+      },
+      "author": "Илья Сидоров",
+      "title": "Microsoft представила свой первый квантовый процессор Majorana 1",
+      "description": "Microsoft анонсировала Majorana 1 — свой первый квантовый вычислительный чип, который стал результатом почти двух десятилетий исследований компании в этой области. Majorana 1 оснащён восемью топологическими кубитами. Компания планирует использовать его в иссл…",
+      "url": "https://www.iphones.ru/iNotes/microsoft-predstavila-svoy-pervyy-kvantovyy-processor-majorana-1",
+      "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2025%2F02%2F108104048-1739918000713-Majorana_1-009_4000px.jpg",
+      "publishedAt": "2025-02-19T18:25:25Z",
+      "content": "Microsoft Majorana 1 , .\r\nMajorana 1 . , 1 .\r\n Microsoft . , .\r\n , Azure 2030 . .\r\n , .\r\n , - Microsoft\r\n, . , : . , , . [CNBC]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Expansion.com"
+      },
+      "author": "Javier G. Fernández",
+      "title": "Microsoft lanza un chip que puede recortar \"de décadas a años\" los primeros ordenadores cuánticos",
+      "description": "La tecnológica ha desarrollado un procesador basado en un nuevo tipo de material que podría acelerar drásticamente el desarrollo de los primeros ordenadores cuánticos comerciales. Leer",
+      "url": "https://www.expansion.com/economia-digital/2025/02/19/67b5ff5ae5fdea624f8b457d.html",
+      "urlToImage": "https://phantom-expansion.unidadeditorial.es/a15af16048879a7c7a5f81fc6e74c9c9/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/19/17399805557327.jpg",
+      "publishedAt": "2025-02-19T16:01:15Z",
+      "content": "La tecnológica ha desarrollado un procesador basado en un nuevo tipo de material que podría acelerar drásticamente el desarrollo de los primeros ordenadores cuánticos comerciales.Microsoft ha dado un… [+4014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thenewslens.com"
+      },
+      "author": "中央通訊社",
+      "title": "微軟發表首款量子晶片Majorana 1，稱實用量子電腦有望數年實現",
+      "description": "微軟發表首款量子運算晶片Majorana 1，採用拓撲量子位元，號稱數年內即可實現實用量子電腦。此晶片內含8個量子位元，較不易出錯。目前不對外開放，將與研究機構合作探索量子運算應用，例如新藥開發。",
+      "url": "https://www.thenewslens.com/article/249300",
+      "urlToImage": "https://bucket-image.inkmaginecms.com/version/social/1/image/2025/02/0c7854c4-6ec6-42b5-a654-1db595f92c3c.jpg",
+      "publishedAt": "2025-02-20T01:40:57Z",
+      "content": "Microsoft2019Majorana 1\r\nMajorana 18Topological qubits\r\nAIGoogleIBM\r\nGoogleIBM\r\nbits01qubits\r\nMajorana 119Nature\r\nNvidia1530Google5IBM2033\r\nHiu-Yung Wong2030AI\r\nCNBCMajorana 1Jason ZanderMajorana 1"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameStar"
+      },
+      "author": "Gerald Weßel",
+      "title": "Quantencomputer - Microsoft arbeitet seit 20 Jahren an einem neuen Produkt, das schon bald alles verändern soll: Ein Quantencomputer, der »einfach die Antwort gibt«",
+      "description": "Quantencomputer sind an sich nichts Neues mehr. Microsoft hat nun aber einen Chip entwickelt, der ihre Entwicklung dramatisch beschleunigen soll.",
+      "url": "https://www.gamestar.de/artikel/microsoft-chip-quantencomputer-majorana,3428219.html",
+      "urlToImage": "https://images.cgames.de/images/gamestar/293/teaser-microsoft-quantencomputer-gs_6338315.jpg",
+      "publishedAt": "2025-02-22T06:11:00Z",
+      "content": "Microsoft will mit seinem neuen Majorana-1-Chip einen ersten Schritt hin zu einer Schnittstelle zwischen Mensch, Technik und Natur vollbracht haben.\r\n(Bild: Adobe Firefly, KI-generiert)\r\nProbleme hab… [+3510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dazed"
+      },
+      "author": "Thom Waite",
+      "title": "Laure Prouvost explores humanity’s uncertain future in a quantum cosmos",
+      "description": "The Turner Prize-winning artist’s We Felt A Star Dying, commissioned by LAS Art Foundation, brings together musicians, philosophers, and scientists to imagine where quantum technologies might take us",
+      "url": "https://www.dazeddigital.com/art-photography/article/66284/1/laure-prouvost-felt-star-dying-uncertain-future-quantum-cosmos-kraftwerk-las-art?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=laure-prouvost-explores-humanity-s-uncertain-future-in-a-quantum-cosmos",
+      "urlToImage": "https://images-prod.dazeddigital.com/1200/0-308-2514-1676/azure/dazed-prod/1400/4/1404271.jpg",
+      "publishedAt": "2025-03-05T14:21:00Z",
+      "content": "The old Mitte power plant  a vast concrete structure with towering chimneys and a cavernous turbine hall was built around the same time as the Berlin Wall, and once supplied energy and heat to East B… [+8210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Génération NT"
+      },
+      "author": "Christian D.",
+      "title": "Amazon AWS Ocelot : le cat qubit sort ses griffes pour l'ordinateur quantique",
+      "description": "Après Microsoft et sa puce Majorana 1, Amazon annonce Ocelot, un processeur quantique qui promet d'alléger l'une des grandes problématiques du développement des ordinateurs quantiques.",
+      "url": "https://www.generation-nt.com/actualites/amazon-aws-ocelot-processeur-quantique-correction-erreur-2055628",
+      "urlToImage": "https://img.generation-nt.com/amazon-aws-ocelot-processeur-quantique-cat_04B002A301704546.webp",
+      "publishedAt": "2025-02-28T07:10:01Z",
+      "content": "Les géants du Web ont les yeux rivés sur le monde quantique et se rapprochent petit à petit de la conception d'ordinateurs quantiques qui ne seront plus limités à des problèmes taillés uniquement pou… [+3507 chars]"
+    }
+  ]
+}
