@@ -1,12 +1,8 @@
-# React + Vite
+# Sanskar News
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uses NewsAPI to search the internet for news and displays it in a structured format for anyone to view.
+Also, you can search for a particular news yourself.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Huge thanks to CodeWithHarry, I learned React from your videos.
+Thanks Ankeet Maini, Darsh Shah for your Infinite Scroll component which I used in this project.
+Thanks Klendi Goci for your Loading Bar which I also used.
