@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import LoadingBar from "react-top-loading-bar";
 import LowNavBar from "./components/LowNavBar";
 import GitHub from "./components/GitHub";
-const older = () => {
+const App = () => {
   const apiKey = import.meta.env.VITE_my;
   const pageSize = 20;
   const [progress, setProgress] = useState(0);
@@ -183,7 +183,7 @@ const older = () => {
     </Router>
   );
 };
-const App = () => {
+const older = () => {
   const [colour, setColour] = useState("#120033");
   const handleColourChange = (event) => {
     setColour(event.target.value);
