@@ -3,7 +3,7 @@ import React, { Component } from "react";
 const Loading = () => {
   return (
     <div className="text-center">
-      <img src="http://localhost:5173/SanskarNews/public/loading.gif"></img>
+      <img src="/SanskarNews/public/loading.gif"></img>
     </div>
   );
 };

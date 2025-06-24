@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Component.css";
+import "./component.css";
 function ColourPicker(props) {
   return (
     <>
